@@ -1,17 +1,17 @@
-# RECUPERACION-Desarrollo-con-sistema-GIT-Paula-Menendez-Garcia
-## Trabajo a realizar
+# RECUPERACION Desarrollo con sistema GIT Paula Menendez Garcia
+## Propuesta del proyecto
 Iremos desarrollando las diferentes fases del diseño de nuestro juego.
 
-#### El juego
+### El juego
 Será un serious game basado en mini juegos para que el alumnado de Sonido y DJ aprendan los conceptos musicales básicos. En la carpeta adjunta a esta tarea se pueden encontrar:
 
 - Los apuntes que se le proporciona al alumnado de Sonido
 - Los criterios de evaluación de los resultados de aprendizaje asociados según el BOE que desarrolla ambos ciclos.
 
-#### Fase 1: Research
+### Fase 1: Research
 Desarrollar la investigación completa según la metodología Design Thinking sobre el juego a desarrollar hasta el briefing. Se debe entregar un documento con todos los estudios realizados y el briefing final.
 
-#### Fase 2: Propuestas
+### Fase 2: Propuestas
 En base al estudio realizado, se deben realizar propuestas mediante documentos tipo "La hoja":
 
 - 3 propuestas de de cómo será el entorno en el que se desarrollará el juego (mundo abierto, mazmorras, itinerario cerrado, etc.), temática, historia, narrativa, personajes, las mecánicas de progreso, navegación entre minijuegos, puntuación en las diferentes habilidades, objetivo final y secundarios, diseño de interacción, etc.
@@ -19,10 +19,10 @@ En base al estudio realizado, se deben realizar propuestas mediante documentos t
 
 Posteriormente se evaluarán, elegiremos un propuesta y la validaremos por si fuera necesario iterar.
 
-#### Fase 3: el GDD
+### Fase 3: el GDD
 Desarrollar todos los puntos del GDD.
 
-##### Puntos del GDD:
+#### Puntos del GDD:
 - Portada
 - Índice de contenidos
 - Objetivos
