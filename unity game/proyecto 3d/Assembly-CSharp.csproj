@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Código\PlayerController.cs" />
+    <Compile Include="Assets\Código\Menu.cs" />
     <Compile Include="Assets\Código\Panelgameover.cs" />
     <Compile Include="Assets\Código\botones.cs" />
     <Compile Include="Assets\Código\sueloinfinito.cs" />
