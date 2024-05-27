@@ -16,16 +16,21 @@ public class Panelgameover : MonoBehaviour
     {
       
         Time.timeScale = 1;
-        
-      
+        GameStarted = false;
+
     }
 
     
     void Update()
     {
-       
+        if (Input.GetKey(KeyCode.Space))
+        {
+            GameStarted = true;
+            Destroy(textoEmpezar);
+        }
 
-        
 
-}
+
+
+    }
 }
