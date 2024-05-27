@@ -390,9 +390,25 @@ MonoBehaviour:
   m_GameObject: {fileID: 583010011}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5011d9d8f0c96e14b8d05cd5addf1574, type: 3}
+  m_Script: {fileID: 11500000, guid: a2b9bfbdb27c45b4794aa76605d2c61b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds:
+  - name: MainTheme
+    clip: {fileID: 8300000, guid: ce7726705efd3c84a96ec58ec5f26911, type: 3}
+    volume: 0
+    loop: 1
+    source: {fileID: 0}
+  - name: GameOver
+    clip: {fileID: 8300000, guid: af69e726c4901294abce07798ee3bc4e, type: 3}
+    volume: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Monedas
+    clip: {fileID: 8300000, guid: cfeb5fcea6d2e1e4ba12d4613227c750, type: 3}
+    volume: 0
+    loop: 0
+    source: {fileID: 0}
 --- !u!4 &583010013
 Transform:
   m_ObjectHideFlags: 0
