@@ -9,15 +9,16 @@ public class Panelgameover : MonoBehaviour
 
     public static bool GameStarted;
     public GameObject textoEmpezar;
+    public static bool gameOver;
+    public GameObject gameOverPanel;
 
-    
 
     void Start()
     {
       
         Time.timeScale = 1;
         GameStarted = false;
-
+        gameOver = false;
     }
 
     
@@ -29,7 +30,11 @@ public class Panelgameover : MonoBehaviour
             Destroy(textoEmpezar);
         }
 
-
+        if (gameOver)
+        {
+            Time.timeScale = 0;
+            gameOverPanel.SetActive(true);
+        }
 
 
     }

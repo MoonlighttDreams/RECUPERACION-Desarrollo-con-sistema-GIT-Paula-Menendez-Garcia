@@ -121,8 +121,8 @@ public class PlayerController : MonoBehaviour
     {
         if (hit.transform.tag == "Obstaculo")
         {
-           
-           
+            Panelgameover.gameOver = true;
+
         }
     }
     //Deslizar
