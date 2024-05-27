@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|solutionrelative:assets\\c\u00F3digo\\panelgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|c:\\users\\pauli\\onedrive\\escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|solutionrelative:assets\\c\u00F3digo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Assets\\C\u00F3digo\\Panelgameover.cs",
               "ToolTip": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\Panelgameover.cs",
               "RelativeToolTip": "Assets\\C\u00F3digo\\Panelgameover.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T19:56:27.179Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Assets\\C\u00F3digo\\Menu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:29:10.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T16:29:10.223Z"
             },
             {
               "$type": "Document",
