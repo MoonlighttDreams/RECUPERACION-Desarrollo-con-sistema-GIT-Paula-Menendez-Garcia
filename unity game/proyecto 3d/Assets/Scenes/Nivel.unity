@@ -393,22 +393,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5011d9d8f0c96e14b8d05cd5addf1574, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sounds:
-  - name: MainTheme
-    clip: {fileID: 8300000, guid: ce7726705efd3c84a96ec58ec5f26911, type: 3}
-    volume: 0.2
-    loop: 1
-    source: {fileID: 0}
-  - name: Moneda
-    clip: {fileID: 8300000, guid: cfeb5fcea6d2e1e4ba12d4613227c750, type: 3}
-    volume: 0.5
-    loop: 0
-    source: {fileID: 0}
-  - name: GameOver
-    clip: {fileID: 8300000, guid: af69e726c4901294abce07798ee3bc4e, type: 3}
-    volume: 0.5
-    loop: 0
-    source: {fileID: 0}
 --- !u!4 &583010013
 Transform:
   m_ObjectHideFlags: 0
@@ -1032,8 +1016,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72966c2fcf3a3f142b848c4530956100, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameOverPanel: {fileID: 674928023}
-  textoEmpezar: {fileID: 64572824}
+  textoEmpezar: {fileID: 1732503118}
 --- !u!4 &1254153776
 Transform:
   m_ObjectHideFlags: 0
