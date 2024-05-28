@@ -358,6 +358,7 @@
 "Assets/Código/AudioManager.cs"
 "Assets/Código/Camara.cs"
 "Assets/Código/Menu.cs"
+"Assets/Código/Moneda.cs"
 "Assets/Código/Panelgameover.cs"
 "Assets/Código/PlayerController.cs"
 "Assets/Código/Sonido.cs"

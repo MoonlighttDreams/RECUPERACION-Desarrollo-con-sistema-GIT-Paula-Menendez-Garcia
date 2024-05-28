@@ -67,6 +67,7 @@
     <Compile Include="Assets\Código\botones.cs" />
     <Compile Include="Assets\Código\sueloinfinito.cs" />
     <Compile Include="Assets\Código\Camara.cs" />
+    <Compile Include="Assets\Código\Moneda.cs" />
     <Compile Include="Assets\Código\AudioManager.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -11,7 +11,7 @@ public class Panelgameover : MonoBehaviour
     public GameObject textoEmpezar;
     public static bool gameOver;
     public GameObject gameOverPanel;
-
+    public static int numberOfCoins;
 
     void Start()
     {
@@ -19,6 +19,7 @@ public class Panelgameover : MonoBehaviour
         Time.timeScale = 1;
         GameStarted = false;
         gameOver = false;
+        numberOfCoins = 1;
     }
 
     
