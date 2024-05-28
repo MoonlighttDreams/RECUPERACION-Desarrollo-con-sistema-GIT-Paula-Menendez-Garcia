@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|solutionrelative:assets\\c\u00F3digo\\panelgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|c:\\users\\pauli\\onedrive\\escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|solutionrelative:assets\\c\u00F3digo\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Assets\\C\u00F3digo\\Moneda.cs",
               "ToolTip": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\Moneda.cs",
               "RelativeToolTip": "Assets\\C\u00F3digo\\Moneda.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T18:30:13.339Z",
               "EditorCaption": ""
@@ -81,7 +81,7 @@
               "RelativeDocumentMoniker": "Assets\\C\u00F3digo\\Panelgameover.cs",
               "ToolTip": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\Panelgameover.cs",
               "RelativeToolTip": "Assets\\C\u00F3digo\\Panelgameover.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCIAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T19:56:27.179Z",
               "EditorCaption": ""
@@ -108,8 +108,7 @@
               "RelativeToolTip": "Assets\\C\u00F3digo\\PlayerController.cs",
               "ViewState": "AQIAAGwAAAAAAAAAAIA5wHwAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T16:43:53.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T16:43:53.389Z"
             }
           ]
         }

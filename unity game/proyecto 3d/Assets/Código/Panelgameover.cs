@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -12,6 +13,7 @@ public class Panelgameover : MonoBehaviour
     public static bool gameOver;
     public GameObject gameOverPanel;
     public static int numberOfCoins;
+    public Text TextoMonedas;
 
     void Start()
     {
@@ -30,7 +32,7 @@ public class Panelgameover : MonoBehaviour
             GameStarted = true;
             Destroy(textoEmpezar);
         }
-
+        TextoMonedas.text = "Monedas:" + numberOfCoins;
         if (gameOver)
         {
             Time.timeScale = 0;
