@@ -21,7 +21,6 @@ public class Moneda : MonoBehaviour
         if(other.tag == "Player") 
         { 
             Destroy(gameObject);
-            Debug.Log("Monedas:" + Panelgameover.numberOfCoins);
             Panelgameover.numberOfCoins += 1;
         }
     }
