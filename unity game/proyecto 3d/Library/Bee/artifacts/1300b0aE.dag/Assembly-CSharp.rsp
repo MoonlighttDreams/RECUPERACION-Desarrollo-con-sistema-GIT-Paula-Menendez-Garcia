@@ -361,6 +361,7 @@
 "Assets/Código/Moneda.cs"
 "Assets/Código/Panelgameover.cs"
 "Assets/Código/PlayerController.cs"
+"Assets/Código/Score.cs"
 "Assets/Código/Sonido.cs"
 "Assets/Código/botones.cs"
 "Assets/Código/sueloinfinito.cs"

@@ -14,6 +14,7 @@ public class Panelgameover : MonoBehaviour
     public GameObject gameOverPanel;
     public static int numberOfCoins;
     public Text TextoMonedas;
+   
 
     void Start()
     {
@@ -22,6 +23,7 @@ public class Panelgameover : MonoBehaviour
         GameStarted = false;
         gameOver = false;
         numberOfCoins = 1;
+        
     }
 
     
@@ -31,14 +33,17 @@ public class Panelgameover : MonoBehaviour
         {
             GameStarted = true;
             Destroy(textoEmpezar);
+           
+
         }
         TextoMonedas.text = "Monedas:" + numberOfCoins;
         if (gameOver)
         {
             Time.timeScale = 0;
             gameOverPanel.SetActive(true);
+            
         }
 
-
+       
     }
 }
