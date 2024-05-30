@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|c:\\users\\pauli\\onedrive\\escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|solutionrelative:assets\\c\u00F3digo\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\sonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|solutionrelative:assets\\c\u00F3digo\\sonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|solutionrelative:assets\\c\u00F3digo\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|c:\\users\\pauli\\onedrive\\escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|solutionrelative:assets\\c\u00F3digo\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\panelgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|solutionrelative:assets\\c\u00F3digo\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|solutionrelative:assets\\c\u00F3digo\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\sonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|solutionrelative:assets\\c\u00F3digo\\sonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|solutionrelative:assets\\c\u00F3digo\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DBAB81C-84B0-BDFF-2EE1-57026CF3E28F}|Assembly-CSharp.csproj|C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\assets\\c\u00F3digo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,36 +38,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\Score.cs",
+              "RelativeDocumentMoniker": "Assets\\C\u00F3digo\\Score.cs",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\Score.cs",
+              "RelativeToolTip": "Assets\\C\u00F3digo\\Score.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:56:57.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Moneda.cs",
               "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\Moneda.cs",
               "RelativeDocumentMoniker": "Assets\\C\u00F3digo\\Moneda.cs",
               "ToolTip": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\Moneda.cs",
               "RelativeToolTip": "Assets\\C\u00F3digo\\Moneda.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T18:30:13.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T18:30:13.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\C\u00F3digo\\AudioManager.cs",
               "ToolTip": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\AudioManager.cs",
               "RelativeToolTip": "Assets\\C\u00F3digo\\AudioManager.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBwAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T20:32:36.841Z"
+              "WhenOpened": "2024-05-27T20:32:36.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Sonido.cs",
               "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\Sonido.cs",
               "RelativeDocumentMoniker": "Assets\\C\u00F3digo\\Sonido.cs",
@@ -71,24 +88,24 @@
               "RelativeToolTip": "Assets\\C\u00F3digo\\Sonido.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T20:31:29.716Z"
+              "WhenOpened": "2024-05-27T20:31:29.716Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Panelgameover.cs",
               "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\Panelgameover.cs",
               "RelativeDocumentMoniker": "Assets\\C\u00F3digo\\Panelgameover.cs",
               "ToolTip": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\Panelgameover.cs",
               "RelativeToolTip": "Assets\\C\u00F3digo\\Panelgameover.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwCIAAAA3AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T19:56:27.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T19:56:27.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\Menu.cs",
               "RelativeDocumentMoniker": "Assets\\C\u00F3digo\\Menu.cs",
@@ -100,13 +117,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\C\u00F3digo\\PlayerController.cs",
               "ToolTip": "C:\\Users\\pauli\\OneDrive\\Escritorio\\proyecto\\unity game\\proyecto 3d\\Assets\\C\u00F3digo\\PlayerController.cs",
               "RelativeToolTip": "Assets\\C\u00F3digo\\PlayerController.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAIA5wHwAAABDAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHwAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T16:43:53.389Z"
             }
