@@ -363,6 +363,7 @@
 "Assets/Código/PlayerController.cs"
 "Assets/Código/Rotador.cs"
 "Assets/Código/Score.cs"
+"Assets/Código/SelectorRueda.cs"
 "Assets/Código/Sonido.cs"
 "Assets/Código/TiendaManager.cs"
 "Assets/Código/botones.cs"
