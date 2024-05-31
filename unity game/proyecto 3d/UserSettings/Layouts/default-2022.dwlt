@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
-    y: 43
+    x: -444
+    y: 347
     width: 1920
     height: 1037
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
-  m_Maximized: 1
+  m_Maximized: 0
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 50}
   m_MaxSize: {x: 32384, y: 8096}
   vertical: 0
-  controlID: 104
+  controlID: 17
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneView
+  m_Name: GameView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -221,13 +221,13 @@ MonoBehaviour:
     height: 987
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 15}
+  m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 15}
   - {fileID: 14}
   - {fileID: 10}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,8 +318,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 820
-    y: 73
+    x: 821
+    y: 19
     width: 241
     height: 966
   m_SerializedDataModeController:
@@ -337,7 +337,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2cfbffff
+      m_ExpandedIDs: 2074ffffd481ffffbe8dffffde8effff9ca7ffff34a9ffff8eaaffffa6bcffffcebcffff06bdffff12cfffff7ecfffff54d1ffffc2d3fffff2d3ffff22d4ffff6ad9ffff1adaffff2cdbfffff8dbffff02ddffff8edeffff90e7ffff48ebfffff2f8ffffe4f9ffff2cfbffff0a5e00008a6400005e650000c67100000c720000167200000a7b00005a7b0000647b0000487c0000987c0000a27c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -381,8 +381,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1542
-    y: 73
+    x: 1543
+    y: 19
     width: 377
     height: 966
   m_SerializedDataModeController:
@@ -428,8 +428,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1063
-    y: 73
+    x: 1064
+    y: 19
     width: 477
     height: 966
   m_SerializedDataModeController:
@@ -453,7 +453,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - "Assets/C\xF3digo"
+    - Assets/modelos/tractor-tire/textures
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -461,7 +461,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - "Assets/C\xF3digo"
+  - Assets/modelos/tractor-tire/textures
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\pauli\OneDrive\Escritorio\proyecto\unity game\proyecto
     3d
@@ -469,23 +469,23 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8a5d0000
-    m_LastClickedID: 23946
-    m_ExpandedIDs: 00000000825d000000ca9a3bffffff7f
+    m_SelectedIDs: 50600000
+    m_LastClickedID: 24656
+    m_ExpandedIDs: 00000000825d00008e5d0000565e0000645e0000106000004860000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Musica
+      m_OriginalName: Musica
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 23954
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 7}
     m_SearchString: 
@@ -575,8 +575,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 73
+    x: -444
+    y: 377
     width: 819
     height: 966
   m_SerializedDataModeController:
@@ -622,7 +622,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -983,9 +983,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 666.16455, y: 852.9371, z: -5.979287}
+    m_Target: {x: -1058.9822, y: 70567.234, z: -815.4879}
     speed: 2
-    m_Value: {x: 666.16455, y: 852.9371, z: -5.979287}
+    m_Value: {x: -1058.9822, y: 70567.234, z: -815.4879}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1035,9 +1035,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 723.4738
+    m_Target: 81630.09
     speed: 2
-    m_Value: 723.4738
+    m_Value: 81630.09
   m_Ortho:
     m_Target: 1
     speed: 2

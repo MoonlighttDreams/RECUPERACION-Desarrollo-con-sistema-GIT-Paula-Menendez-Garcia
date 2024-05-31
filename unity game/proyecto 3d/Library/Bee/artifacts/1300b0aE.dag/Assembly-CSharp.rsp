@@ -361,8 +361,10 @@
 "Assets/Código/Moneda.cs"
 "Assets/Código/Panelgameover.cs"
 "Assets/Código/PlayerController.cs"
+"Assets/Código/Rotador.cs"
 "Assets/Código/Score.cs"
 "Assets/Código/Sonido.cs"
+"Assets/Código/TiendaManager.cs"
 "Assets/Código/botones.cs"
 "Assets/Código/sueloinfinito.cs"
 -langversion:9.0
