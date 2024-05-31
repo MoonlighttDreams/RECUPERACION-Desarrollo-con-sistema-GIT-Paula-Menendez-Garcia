@@ -65,10 +65,12 @@
     <Compile Include="Assets\Código\Panelgameover.cs" />
     <Compile Include="Assets\Código\Sonido.cs" />
     <Compile Include="Assets\Código\botones.cs" />
+    <Compile Include="Assets\Código\Rotador.cs" />
     <Compile Include="Assets\Código\sueloinfinito.cs" />
     <Compile Include="Assets\Código\Camara.cs" />
     <Compile Include="Assets\Código\Moneda.cs" />
     <Compile Include="Assets\Código\AudioManager.cs" />
+    <Compile Include="Assets\Código\TiendaManager.cs" />
     <Compile Include="Assets\Código\Score.cs" />
   </ItemGroup>
   <ItemGroup>
