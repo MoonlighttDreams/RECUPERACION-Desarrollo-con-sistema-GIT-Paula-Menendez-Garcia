@@ -64,6 +64,7 @@
     <Compile Include="Assets\Código\Menu.cs" />
     <Compile Include="Assets\Código\Panelgameover.cs" />
     <Compile Include="Assets\Código\Sonido.cs" />
+    <Compile Include="Assets\Código\SelectorRueda.cs" />
     <Compile Include="Assets\Código\botones.cs" />
     <Compile Include="Assets\Código\Rotador.cs" />
     <Compile Include="Assets\Código\sueloinfinito.cs" />

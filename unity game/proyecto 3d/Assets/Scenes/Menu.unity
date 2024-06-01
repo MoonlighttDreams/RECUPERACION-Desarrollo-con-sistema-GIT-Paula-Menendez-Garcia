@@ -906,7 +906,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: TIENDA
+  m_Text: RUEDAS
 --- !u!222 &1649857092
 CanvasRenderer:
   m_ObjectHideFlags: 0

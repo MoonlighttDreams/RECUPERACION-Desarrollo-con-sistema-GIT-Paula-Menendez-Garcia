@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// Cámara
 public class Camara : MonoBehaviour
 {
     public Transform target;
@@ -12,7 +12,6 @@ public class Camara : MonoBehaviour
         offset = transform.position - target.position;
     }
 
-    // Update is called once per frame
     void FixedUpdate()
     {
         Vector3 newPosition = new Vector3(transform.position.x, transform.position.y, offset.z + target.position.z);

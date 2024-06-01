@@ -6,9 +6,10 @@ public class AudioManager : MonoBehaviour
 {
 
     public Sonido[] sounds;
-    // Start is called before the first frame update
+    // Start
     void Start()
     {
+        // Loops de sonido
         foreach (Sonido s in sounds)
 
         {

@@ -11,6 +11,8 @@ public class sueloinfinito : MonoBehaviour
     private List<GameObject> activeTiles = new List<GameObject>();
 
     public Transform playerTransform;
+
+    // Spawn de la primera tile
     void Start()
     {
         for (int i = 0; i < numberOfTiles; i++)
@@ -22,7 +24,8 @@ public class sueloinfinito : MonoBehaviour
         }
     }
 
-   //update
+
+    // Posición para eliminar los tiles
     void Update()
     {
     if(playerTransform.position.z -35 > zSpawn - (numberOfTiles*tileLength))
@@ -32,6 +35,7 @@ public class sueloinfinito : MonoBehaviour
     }
         }
 
+    // Spawn de tiles
     public void SpawnTile(int tileIndex)
     {
         GameObject go =Instantiate(tilePrefabs[tileIndex], transform.forward * zSpawn, transform.rotation);
@@ -39,6 +43,8 @@ public class sueloinfinito : MonoBehaviour
         zSpawn += tileLength;
 
     }
+
+    // Eliminar tiles
     private void DeleteTile()
     {
         Destroy(activeTiles[0]);

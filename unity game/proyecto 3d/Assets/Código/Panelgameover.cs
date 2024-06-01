@@ -29,6 +29,7 @@ public class Panelgameover : MonoBehaviour
     
     void Update()
     {
+        // Pulsar espacio para empezar
         if (Input.GetKey(KeyCode.Space))
         {
             GameStarted = true;
@@ -36,7 +37,10 @@ public class Panelgameover : MonoBehaviour
            
 
         }
+        // Texto monedas
         TextoMonedas.text = "Monedas:" + numberOfCoins;
+
+        // Game over resetea tiempo
         if (gameOver)
         {
             Time.timeScale = 0;
