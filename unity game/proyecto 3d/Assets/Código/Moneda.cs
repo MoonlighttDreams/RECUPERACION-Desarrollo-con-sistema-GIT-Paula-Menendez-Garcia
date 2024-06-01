@@ -4,18 +4,18 @@ using UnityEngine;
 
 public class Moneda : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Monedas 
     void Start()
     {
         
     }
-
-    // Update is called once per frame
+    // Rotación monedas
     void Update()
     {
         transform.Rotate(70 * Time.deltaTime, 0, 0);
 
     }
+    // Contador monedas
     private void OnTriggerEnter(Collider other)
     {
         if(other.tag == "Player") 

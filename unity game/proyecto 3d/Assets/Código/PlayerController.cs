@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour
     private bool isGrounded;
     private bool isSliding;
 
-
+    // Triggers al empezar
     void Start()
     {
         controller = GetComponent<CharacterController>();
@@ -105,7 +105,7 @@ public class PlayerController : MonoBehaviour
         controller.center = controller.center;
     }
 
-    // panel game over //
+    // Panel game over //
     private void FixedUpdate()
     {
         if (!Panelgameover.GameStarted)
@@ -126,7 +126,7 @@ public class PlayerController : MonoBehaviour
 
         }
     }
-    //Deslizar
+    // Deslizar
     private IEnumerator Slide()
     {
         isSliding = true;

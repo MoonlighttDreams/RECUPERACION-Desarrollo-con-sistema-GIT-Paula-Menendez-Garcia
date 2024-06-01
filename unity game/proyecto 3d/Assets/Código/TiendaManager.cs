@@ -4,12 +4,14 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
+// Class tienda
 public class TiendaManager : MonoBehaviour
 {
     public GameObject[] Modelos;
     public int CurrentModelo =0;
 
-
+    // Modelo seleccionado
     void Start()
     {
         CurrentModelo = PlayerPrefs.GetInt("Selected", 0);
@@ -19,11 +21,11 @@ public class TiendaManager : MonoBehaviour
         Modelos[CurrentModelo].SetActive(true);
     }
 
-    // Update is called once per frame
     void Update()
     {
         
     }
+    // Cambiar al siguiente modelo
     public void ChangeNext()
     {
         Modelos[CurrentModelo].SetActive(false);
@@ -34,6 +36,7 @@ public class TiendaManager : MonoBehaviour
         Modelos[CurrentModelo].SetActive(true);
         PlayerPrefs.SetInt("Selected", CurrentModelo);
     }
+    // Cambiar al anterior modelo
     public void ChangeBack()
     {
         Modelos[CurrentModelo].SetActive(false);
@@ -44,6 +47,7 @@ public class TiendaManager : MonoBehaviour
         Modelos[CurrentModelo].SetActive(true);
         PlayerPrefs.SetInt("Selected", CurrentModelo);
     }
+    // Botón jugar
     public void PlayGame()
     {
         SceneManager.LoadScene("Nivel");

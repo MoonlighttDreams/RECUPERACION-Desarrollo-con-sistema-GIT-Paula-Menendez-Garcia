@@ -8,6 +8,7 @@ public class SelectorRueda : MonoBehaviour
     public int CurrentModelo = 0;
 
 
+    // Rueda activa
     void Start()
     {
         CurrentModelo = PlayerPrefs.GetInt("Selected", 0);

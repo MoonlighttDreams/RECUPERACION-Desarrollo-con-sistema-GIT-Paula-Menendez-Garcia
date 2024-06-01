@@ -6,7 +6,7 @@ public class Rotador : MonoBehaviour
 {
   
 
-    // Update is called once per frame
+    // Rotador de ruedas en selección
     void Update()
     {
         transform.Rotate(0, 50 * Time.deltaTime, 0);

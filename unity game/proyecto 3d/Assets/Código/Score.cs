@@ -10,13 +10,13 @@ public Text scoreValueText;
 public float puntosPorSegundo = 1f;
 public float scoreValue = 0f;
 
-    // Start is called before the first frame update
+    // Al empezar, establecemos el score como 0
     void Start()
     {
         scoreValue = 0;
     }
 
-    // Update is called once per frame
+    // Aumento de puntos por segundo
     void Update()
     {
         scoreValueText.text = ((int)scoreValue).ToString();
